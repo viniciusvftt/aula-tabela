@@ -1,0 +1,28 @@
+.img{width: auto;
+     height: 500px;}
+
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex; 
+    flex-direction: column;
+
+}
+
+header{
+    align-items: center;    
+    height: 50px;
+    background-color: rgb(42, 42, 42);
+    color: white;
+    width: 100%;    
+}
+
+li{
+    display: inline-block;
+    font-style: normal;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
